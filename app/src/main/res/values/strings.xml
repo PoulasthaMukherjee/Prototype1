@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prototype1</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+</resources>
