@@ -1,2 +1,2 @@
-# Prototype1-SITA-Java
+# Prototype1-SITA-Kotlin
  State Innovation and Transformation Aayog
